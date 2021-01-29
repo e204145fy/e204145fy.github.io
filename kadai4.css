@@ -1,0 +1,22 @@
+h1{
+    color:#ffffff;
+    text-align: center;
+    font-family: "Impact";
+    background-color: #000000;
+}
+h3{
+    color:#33ffff;
+    text-align: center;
+    background-color: #000090;
+    
+
+}p{
+    color: #006600;
+}
+h4{
+   color: #000090; 
+}
+body {
+background-image : url(../images/moyo.jpeg);
+}
+
